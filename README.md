@@ -58,11 +58,11 @@ Représentation graphique des ensembles flous pour chaque valeur :
 
 Par exemple la valeur "Froid" sera plus ou moins vraie (un degré entre 0 et 1) sur la plage de température entre 0 et 35 degrés. Elle sera vraie (y=1) sous 10 degrés, fausse au dessus de 12 degrés (y=0) et entre les 2 (0<y<1) entre 10 et 12 degrés.
 
-![](C:\Users\gchat\source\repos\fuzzy_system\fuzzy_system\resources\images\linguistic_values.png)
+![](https://github.com/gregory-chatelier/fuzzy-logic/blob/master/resources/images/linguistic_values.png)
 
 La variable température est définie par ces 4 ensembles.
 
-![](C:\Users\gchat\source\repos\fuzzy_system\fuzzy_system\resources\images\linguistic_variable.png)
+![](https://github.com/gregory-chatelier/fuzzy-logic/blob/master/resources/images/linguistic_variable.png)
 
 Pour une température en entrée de 22 degrés, les ensembles pour les valeurs "Bon" et "Chaud" sont tous les deux activés, le degré d'appartenance est supérieur à zéro, par contre il ne fait ni "Froid", ni "Frais". De même à 16 degrés, il fait à la fois "Froid" et "Bon".
 
